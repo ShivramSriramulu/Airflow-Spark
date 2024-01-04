@@ -26,8 +26,8 @@ To run the project, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/your-repository.git
-    cd your-repository
+    git clone https://github.com/ShivramSriramulu/Airflow-Spark.git
+    cd Airflow-Spark
     ```
 
 2. Set up the environment variables for Airflow:
@@ -51,16 +51,4 @@ To run the project, follow these steps:
 
     Navigate to the Airflow UI, find and trigger the DAG named "sparking_flow".
 
-## Contributing
 
-If you would like to contribute to this project, please follow the standard GitHub workflow:
-
-1. Fork the repository.
-2. Create a new branch for your feature: `git checkout -b feature-name`.
-3. Make changes and commit them: `git commit -m 'Add new feature'`.
-4. Push to the branch: `git push origin feature-name`.
-5. Create a Pull Request on GitHub.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
